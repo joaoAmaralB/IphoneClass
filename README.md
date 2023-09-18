@@ -1,18 +1,5 @@
-## Getting Started
+## Iphone Class
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+A java iphone class that implements interfaces made with the following uml diagram
 
-## Folder Structure
-
-The workspace contains two folders by default, where:
-
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+<img src="https://cdn-0.plantuml.com/plantuml/png/VP31QW8n48Rl-nJ1awNu0aL4gHUXIh6jzp4Prw7Pp3APs6BntRlgYei6vn2IcOz__lpZg22QAbyegKVpDNyhQh3VKABfJJ72XhXdXiCbMeLGUXoDp5zXch8UOZIpUii1szRXTBQjWUEVC31Bh8LTKfPvYcJ1PvX93O9-ov_eSSE1B9iCjO0Tbk1OfZ0BYX9GpnWTNnkmUB_iQAojPsKBqgzEWnVpeKAXVBfShbWDAJPSPXBHeoKEqAe_r3hSMClyiUFDKzdi3Ab2uOxUYibT8L0C3gL_Dw16Za1UMGI9Lxo_85adcHoxLl2NrYJlK5A0VXB_82fmTCvZmJkOh24N6cW2JtkuADwcT2YACGQNAlyF" alt="Uml diagram"/>
